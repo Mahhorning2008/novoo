@@ -3,8 +3,8 @@
 
 :root {
     --laranja-claro: #ff8cc7;
-    --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #9e1c1cca;
+    --alto-contraste-fundo: #4a3939;
+    --alto-contraste-texto: #060305ca;
     --alto-contraste-link: #ffd700;
 }
 
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/fundo.jpg');
+    background-image: url('fundoof.jpeg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -79,8 +79,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/cobra.png') top right no-repeat,
-        url('img/vacina.png') bottom left no-repeat;
+    background: url('cobra.png') top right no-repeat,
+        url('vacina.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -108,12 +108,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('ferradura.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/fundo.jpg');
+    background-image: url('fundoof.jpeg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
